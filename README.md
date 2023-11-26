@@ -1,4 +1,4 @@
-# vite-tinybase
+# vite-tinybase [![Deploy static content to Pages](https://github.com/sudo-self/tiny-base/actions/workflows/static.yml/badge.svg)](https://github.com/sudo-self/tiny-base/actions/workflows/static.yml)
 
 This is a [Vite](https://vitejs.dev/) template for a simple
 [TinyBase](https://tinybase.org/) app.
