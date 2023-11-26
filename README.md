@@ -31,7 +31,8 @@ npm run dev
 
 5. Go the URL shown and enjoy!
 
-![](https://tinybase.org/vite-tinybase.png)
+<img width="1214" alt="Screenshot 2023-11-25 at 11 07 20 PM" src="https://github.com/sudo-self/tiny-base/assets/119916323/e8c56881-5333-4830-b1c0-8dd65605bbe5">
+
 
 ## Other templates
 
